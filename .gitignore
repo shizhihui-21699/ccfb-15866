@@ -16,3 +16,10 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# PVSAudit runtime output
+pvsaudit-state.json
+pvsaudit-report.txt
+*.pppc
+*.mobileconfig
+.build/
